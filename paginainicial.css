@@ -4,18 +4,21 @@ h2{
     text-align: center;
 }
 body{
-    background-color: rosybrown;
+    background-color: rgb(243, 217, 217);
  
     
 }
 p{
+    text-align: center;
     font-size: 50px;
     color: chocolate;
   
 }
-div{
-    background-color: bisque;
-    height: 30000px;
-    width: 30000px;
+a{
+    text-align: center;
 }
 
+div{
+    
+    text-align: center;
+}
