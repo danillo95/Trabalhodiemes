@@ -16,13 +16,14 @@ p{
 }
 a{
     text-align: center;
+
 }
 
 .diaa{
-    font-size: 100px;
-    padding: 1px 10px;
+    font-size: 30px;
+  letter-spacing: 100px;
     background-color: beige;
     text-align: center;
     padding: 30px;
-   margin: 3%;
+    
 }
