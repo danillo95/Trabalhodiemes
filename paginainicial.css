@@ -18,7 +18,11 @@ a{
     text-align: center;
 }
 
-div{
-    
+.diaa{
+    font-size: 100px;
+    padding: 1px 10px;
+    background-color: beige;
     text-align: center;
+    padding: 30px;
+   margin: 3%;
 }
