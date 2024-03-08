@@ -15,15 +15,20 @@ p{
   
 }
 a{
+    color: black;
+    text-decoration: none;
     text-align: center;
+   
 
 }
 
 .diaa{
-    font-size: 30px;
-  letter-spacing: 100px;
+    
+    font-size: 40px;
+    word-spacing: 220px;
     background-color: beige;
     text-align: center;
-    padding: 30px;
+    width: ;
+
     
 }
