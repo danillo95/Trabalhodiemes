@@ -71,7 +71,7 @@ nav:after{
 .dias{
    
    height: 1000px;
-   background-color: rgb(230, 230, 243);
+   background-color: rgba(230, 230, 243, 0.507);
 }
 .dias img{
     margin: 50px;
