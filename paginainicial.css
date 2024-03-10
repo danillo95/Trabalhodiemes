@@ -70,7 +70,7 @@ nav:after{
 
 .dias{
    
-   height: 2000px;
+   height: 1300px;
    background-color: rgba(245, 212, 240, 0.616);
 }
 .dias img{
@@ -84,6 +84,7 @@ nav:after{
     flex-wrap: wrap;
 }
 .produto{
+    background: pink;
     border: 1px solid rgb(0, 0, 0);
     margin-bottom: 20px;
     cursor: pointer;
