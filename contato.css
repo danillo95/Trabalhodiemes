@@ -1,3 +1,39 @@
+body{
+    text-align: center;
+}
+h3{
+    font-size: 40px;
+    color: black;
+}
+    
+p{
+    font-size: 20px;
+    color: pink;
+}
+.content{
+    display: flex;
+
+}   
+.contato{
+    width: 100%;
+    max-width: 500px;
+
+}   
+.form{
+    display: flex;
+    flex-direction: column;
+
+}
+.field{
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid blue; border-radius: 5px; font-family: Arial, Helvetica, sans-serif; font-size: 16px;
+}
+textarea{
+    height: 150px;
+}
+
+
 .argo{
     background-color:rgb(245, 212, 240);
     text-align: center;
@@ -74,44 +110,3 @@ nav:after{
 
 
 
-.dias{
-   
-   height: 3000px;
-   background-color: rgba(245, 212, 240, 0.616);
-}
-.dias img{
-    margin: 50px;
-    width: 200px;
-    height: 300px ;
-}
-.Produtos{
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
-.produto{
-    background: pink;
-    border: 1px solid rgb(0, 0, 0);
-    margin-bottom: 20px;
-    cursor: pointer;
-}
-.produto p{
-    text-align: center;
-    font-size: 25px;
-   background-color: aqua;
-    color: whitesmoke;
-    padding: 5px 10px;
-}
-.produto h2{
-    font-size: 30px;
-    text-align: center;
-    color: black;
-}
-.produto p:hover{
-    transform: rotate(-5deg);
-}
-#t{
-    text-align: center;
-    font-size: 50px;
-    color: rgb(218, 23, 143);
-}
